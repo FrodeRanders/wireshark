@@ -739,6 +739,7 @@ set(DISSECTOR_SRC
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bmc.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bmp.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bofl.c
+	${CMAKE_CURRENT_SOURCE_DIR}/packet-bolt.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bootparams.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bpdu.c
 	${CMAKE_CURRENT_SOURCE_DIR}/packet-bpq.c
